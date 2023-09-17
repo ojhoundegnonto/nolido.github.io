@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /./
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks & Events"
+    url: /talks/
+  - title: "Family Roots"
+    url: /familyroots/
